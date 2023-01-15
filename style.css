@@ -277,7 +277,7 @@ body{
 }
  /* FOOTER END */
 
-@media only  screen  and (max-width:5576px){
+@media only screen and (max-width:576px){
     body{
         background-color: #ff8f0e4b;
         text-align: center;
